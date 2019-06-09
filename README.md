@@ -27,8 +27,8 @@ There are a few things needed before you run the tests. Make sure you have the l
 
 ## Run tests
 <b>First, you will need to set two environments to your machine for accessing to browserstack</b>
-    Env Name : BROWSERSTACK_ACCESSKEY, Env Value : <Your Browserstack Access Key>
-    Env Name : BROWSERSTACK_USERNAME, Env Value : <Your Browserstack Username>
+    - Env Name : BROWSERSTACK_ACCESSKEY, Env Value : <Your Browserstack Access Key>
+    - Env Name : BROWSERSTACK_USERNAME, Env Value : <Your Browserstack Username>
 
 1. Run all test with `mvn test`
 
