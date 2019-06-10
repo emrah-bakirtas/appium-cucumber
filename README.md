@@ -41,4 +41,4 @@ There are a few things needed before you run the tests. Make sure you have the l
     - You can view the cucumber report in target/cucumber-reports/cucumber-html-reports/index.html directory
 
 #### Notes for running tests on BrowserStack
-- You can view your test results on the [BrowserStack automate dashboard](https://www.browserstack.com/automate)
+- You can view your test results on the [BrowserStack automate dashboard](https://app-automate.browserstack.com/)
