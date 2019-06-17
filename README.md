@@ -1,6 +1,10 @@
 Technologies Covered in This Project
 ====================================
 
+# Appium
+[Appium](http://appium.io/) is an open source test automation framework for use with native, hybrid and mobile web apps. 
+It drives iOS, Android, and Windows apps using the WebDriver protocol.
+
 # Cucumber
 [Cucumber](https://cucumber.io/) is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
 
