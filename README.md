@@ -46,3 +46,5 @@ There are a few things needed before you run the tests. Make sure you have the l
 
 #### Notes for running tests on BrowserStack
 - You can view your test results on the [BrowserStack automate dashboard](https://app-automate.browserstack.com/)
+
+***bold*
